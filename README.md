@@ -23,3 +23,9 @@ e. scGPT_NSCLC.ipynb & e. scGPT_PBMC.ipynb
 
 f. NN_analysis_NSCLC.ipynb & f. NN_analysis_PBMC.ipynb
 - Deploy a pair-wise nearest neighbor analysis for all embeddings, per dataset.
+
+### Data
+The 68k PBMC dataset is available at: https://www.10xgenomics.com/datasets/fresh-68-k-pbm-cs-donor-a-1-standard-1-1-0.
+
+The 20k NSCLC dataset is available at: https://www.10xgenomics.com/datasets/20-k-mixture-of-nsclc-dt-cs-from-7-donors-3-v-3-1-3-1-standard-6-1-0. 
+
